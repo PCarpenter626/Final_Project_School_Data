@@ -1,11 +1,11 @@
 # Final_Project_School_Data
 
 # Data, Math, Data.
-This project collects the Quarterly Math test scores of the students at a Texas Middle School. 
+This project collects the quarterly Math test scores of the students at a Texas Middle School. 
 From these scores, an analysis will be performed on the students primarily focusing on the achievement levels of two of the schools sub-populations, Black and Hispanic students. At the end of this analysis, we will be able to determine which Sub-Population performed the best and use this data to plan for the next steps for each Sub-Population as they prepare for their State Assessment. 
 
 # Pre-Requisits 
-Requirements for the software and other tools to run
+Requirements for the software and other tools to run:
 
 - Tableau
 - Google Slides
@@ -15,24 +15,8 @@ Requirements for the software and other tools to run
 - DB Browser for SQLite
   
 
-Getting Started
-These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
-
-# Prerequisites
-Requirements for the software and other tools to build, test and push
-
-Example 1
-Example 2
-# Installing
-A step by step series of examples that tell you how to get a development environment running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+# Getting Started
+These instructions will give you a step by stepcopy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
 
 # Running the tests
 Explain how to run the automated tests for this system
@@ -51,20 +35,16 @@ Add additional notes to deploy this on a live system
 Built With
 Contributor Covenant - Used for the Code of Conduct
 Creative Commons - Used to choose the license
-# Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-# Versioning
-We use Semantic Versioning for versioning. For the versions available, see the tags on this repository.
+# Contributors
+- Students of DATA @ Adams Middle School in Grand Prairie, TX
+- Math Test writers of the Grand Prairie ISD
+- Patrick Carpenter
 
 # Authors
-Billie Thompson - Provided README Template - PurpleBooth
-See also the list of contributors who participated in this project.
-
-# License
-This project is licensed under the CC0 1.0 Universal Creative Commons License - see the LICENSE.md file for details
+- Patrick M Carpenter
 
 # Acknowledgments
-Hat tip to anyone whose code is used
-Inspiration
-etc
+- A.I. through Microsoft CoPilot and Google Chrome
+- ReadMe Template by Billie Thomposon
+- ChatGPT
