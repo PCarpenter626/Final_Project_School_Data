@@ -4,8 +4,16 @@
 This project collects the Quarterly Math test scores of the students at a Texas Middle School. 
 From these scores, an analysis will be performed on the students primarily focusing on the achievement levels of two of the schools sub-populations, Black and Hispanic students. At the end of this analysis, we will be able to determine which Sub-Population performed the best and use this data to plan for the next steps for each Sub-Population as they prepare for their State Assessment. 
 
+# Pre-Requisits 
+Requirements for the software and other tools to run
 
-Initially appeared on gist. But the page cannot open anymore so that is why I have moved it here.
+- Tableau
+- Google Slides
+- Microsoft Excel
+- Jupyter Notebook
+- Anaconda Navigator 
+- DB Browser for SQLite
+  
 
 Getting Started
 These instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
