@@ -16,25 +16,22 @@ Requirements for the software and other tools to run:
   
 
 # Getting Started
-These instructions will give you a step by stepcopy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
+These instructions will give you a step by step method to reading and understanding the analaysis:
+
+# Step 1
+
+# Step 2
+
+# Step 3
+
+# Step 4
+
+# Step 5
+
+# Step 6
 
 # Running the tests
 Explain how to run the automated tests for this system
-
-# Sample Tests
-Explain what these tests test and why
-
-Give an example
-Style test
-Checks if the best practices and the right coding style has been used.
-
-Give an example
-# Deployment
-Add additional notes to deploy this on a live system
-
-Built With
-Contributor Covenant - Used for the Code of Conduct
-Creative Commons - Used to choose the license
 
 # Contributors
 - Students of DATA @ Adams Middle School in Grand Prairie, TX
